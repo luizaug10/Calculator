@@ -6,6 +6,7 @@
 }
 
 body {
+  margin-top: -20px;
   background: linear-gradient(90deg, black, #0a045a 100%);
 }
 
@@ -71,6 +72,7 @@ footer {
 }
 
 .copy {
+  margin-top: -15px;
   font-size: 20px;
 }
 
