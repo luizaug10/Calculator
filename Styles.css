@@ -6,7 +6,7 @@
 }
 
 body {
-  background: linear-gradient(90deg, black, #0a045a 100%);
+  background: linear-gradient(45deg, black, #23a0f5 100%);
 }
 
 .grid-container {
@@ -29,12 +29,12 @@ body {
 }
 
 .grid-container > button:hover {
-  background-color: #0a045a;
-  color: gray;
+  background-color: #23a0f5;
+  color: #000000;
 }
 
 .grid-container > .operator {
-  background: #0a045a;
+  background: #23a0f5;
 }
 
 .span-two {
